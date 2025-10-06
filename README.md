@@ -80,7 +80,7 @@ Proses ini dibagi menjadi tiga tahap utama yang dieksekusi oleh skrip yang berbe
 Clone repositori ini dan instal semua library yang dibutuhkan.
 
 ```bash
-git clone [URL_REPOSITORI_ANDA]
+git clone https://github.com/Alphli/nikel-raja-ampat.git
 cd [NAMA_FOLDER_REPOSITORI]
 pip install -r requirements.txt
 ```
@@ -153,26 +153,6 @@ streamlit run src/deploy.py
 
 ## 👨‍💻 Kontributor
 
-**[Nama Anda]** - [Link ke profil LinkedIn atau GitHub Anda]
+**Muhammad Rafli Sariani** - [Link ke profil LinkedIn atau GitHub Anda]
 
----
 
-## 📄 Lisensi
-
-[Tentukan lisensi proyek Anda, misalnya MIT License]
-
----
-
-## 🤝 Kontribusi
-
-Pull requests sangat diterima! Untuk perubahan besar, silakan buka issue terlebih dahulu untuk mendiskusikan perubahan yang ingin Anda lakukan.
-
----
-
-## 📧 Kontak
-
-Jika ada pertanyaan atau saran, silakan hubungi melalui [email@example.com] atau buat issue di repositori ini.
-
----
-
-**⭐ Jangan lupa berikan star jika proyek ini bermanfaat!**
