@@ -30,7 +30,7 @@ Dashboard Interaktif: Data yang telah diolah dan dilabeli sentimennya disajikan 
 
 Fitur Visualisasi: Termasuk metrik ringkasan, distribusi sentimen (Pie Chart), tren sentimen dari waktu ke waktu (Line Chart), perbandingan sentimen per sumber (Bar Chart), dan Word Cloud untuk kata-kata yang paling dominan.
 
-Struktur Folder
+#Struktur Folder
 /
 ├── data/
 │   ├── logs/             # Menyimpan log dari proses crawling
@@ -86,4 +86,3 @@ streamlit run src/deploy.py
 
 Kontributor
 [Nama Anda] - [Link ke profil LinkedIn atau GitHub Anda]
-
