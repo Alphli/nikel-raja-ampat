@@ -2,9 +2,8 @@ Analisis Sentimen Multi-Platform: Isu Tambang Nikel di Raja Ampat
 Repositori ini berisi serangkaian skrip Python untuk mengumpulkan, memproses, dan menganalisis sentimen publik dari berbagai platform digital (Portal Berita, Twitter, YouTube) mengenai isu kontroversial pertambangan nikel di Raja Ampat.
 
 https://nikel-raja-ampat-q5gyrkl9khyytskzjd95aa.streamlit.app/
-<-- Ganti URL di atas dengan link aplikasi Streamlit Anda yang sudah di-deploy!
+
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/5c4fb1c5-50d9-45f8-9eb9-ec8033d49b41" />
-<-- Ganti placeholder ini dengan screenshot dashboard Tableau atau Streamlit Anda.
 
 Latar Belakang
 Rencana dan operasi pertambangan nikel di Raja Ampat, sebuah kawasan dengan keanekaragaman hayati laut kelas dunia, telah memicu diskursus publik yang luas. Proyek ini bertujuan untuk menangkap dan menganalisis narasi yang berkembang di media online dan platform sosial untuk memahami sentimen publik secara kuantitatif.
@@ -87,3 +86,4 @@ streamlit run src/deploy.py
 
 Kontributor
 [Nama Anda] - [Link ke profil LinkedIn atau GitHub Anda]
+
