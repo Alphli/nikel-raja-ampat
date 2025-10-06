@@ -153,6 +153,6 @@ streamlit run src/deploy.py
 
 ## 👨‍💻 Kontributor
 
-**Muhammad Rafli Sariani** - [Link ke profil LinkedIn atau GitHub Anda]
+**Muhammad Rafli Sariani** - https://github.com/Alphli
 
 
